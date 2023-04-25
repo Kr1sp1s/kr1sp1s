@@ -6,7 +6,7 @@
    </a>
 </div>
 <h1>
-  hey there
+  Привет, я Кристина
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -16,7 +16,7 @@
 
 ---
 
-:woman_technologist: Обо мне :
+### :woman_technologist: Обо мне :
 
 Я начинающий аналитик данных :bar_chart: из Санкт-Петербурга.
 - :briefcase: Работаю в Высшей школе экономики на факультете физико-математических и компьютерных наук.
@@ -27,7 +27,7 @@
 
 ---
 
-:hammer_and_wrench: Навыки и инструменты :
+### :hammer_and_wrench: Навыки и инструменты :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
