@@ -1,12 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJiMDhkNDc1Y2M4MTFjYmU5YzAyZjBiMGI2ZmFjZWFmMTdkZTIyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-   <a href="https://t.me/kr1sp1s">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-   </a>
-</div>
+ 
 <h1>
-  Привет, я Кристина
+  Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -23,7 +18,7 @@
 
 - :notebook_with_decorative_cover: Закончила курсы по аналитике данных от Karpov.Courses.
 
-- :mag: А вот и мое [резюме](https://drive.google.com/drive/my-drive).
+- :mag: А вот и мое [резюме](https://drive.google.com/drive/my-drive). Связаться со мной можно по [почте](mailto:kr.spit@yandex.ru) и в [телеграм](https://t.me/kr1sp1s).
 
 - :zap: В свободное время интересуюсь историей архитектуры, хожу в театры и на выставки. Недавно открыла для себя zero waste и занялась благотворительностью.
 
