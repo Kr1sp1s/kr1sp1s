@@ -23,11 +23,15 @@
 
 - :notebook_with_decorative_cover: Закончила курсы по аналитике данных от Karpov.Courses.
 
+- :mag: А вот и мое [резюме](https://drive.google.com/drive/my-drive).
+
 - :zap: В свободное время интересуюсь историей архитектуры, хожу в театры и на выставки. Недавно открыла для себя zero waste и занялась благотворительностью.
+
+- :globe_with_meridians: Владею английским языком на уровне B2.
 
 ---
 
-### :hammer_and_wrench: Навыки и инструменты :
+### :hammer_and_wrench: Технологии и инструменты :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
