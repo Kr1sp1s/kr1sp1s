@@ -18,7 +18,7 @@
 
 - :notebook_with_decorative_cover: Закончила курсы по аналитике данных от Karpov.Courses.
 
-- :mag: А вот и мое [резюме](https://drive.google.com/drive/my-drive). Связаться со мной можно по [почте](mailto:kr.spit@yandex.ru) и в [телеграм](https://t.me/kr1sp1s).
+- :mag: А вот и мое [резюме](https://drive.google.com/file/d/1xEbGzRccAOqFdGRG1t61RuWiPLT8hUn8/view?usp=sharing). Связаться со мной можно по [почте](mailto:kr.spit@yandex.ru) и в [телеграм](https://t.me/kr1sp1s).
 
 - :zap: В свободное время интересуюсь историей архитектуры, хожу в театры и на выставки. Недавно открыла для себя zero waste и занялась благотворительностью.
 
